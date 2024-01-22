@@ -1,0 +1,18 @@
+/* Write your code here. */
+.app-container {
+    background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+    min-height: 100vh;
+  }
+  .emoji-game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .emojis-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+  }
+  
